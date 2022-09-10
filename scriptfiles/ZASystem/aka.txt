@@ -1,0 +1,3 @@
+192.168.1.100=amirab
+127.0.0.1=[TnT]Mostafe,[COD]Mishel
+46.118.197.60=Dima_Mashin
